@@ -1,0 +1,28 @@
+name: Kudos Sound
+favicon: null
+layout_spectrum: 0.793119739741087
+typography_spectrum: 0.8360059002880007
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.27178572164848447
+  lightness: 0.32048107823356986
+  saturation: 0.33543138997629285
+  rhythmicContrast: 0.687354541849345
+purpose: []
